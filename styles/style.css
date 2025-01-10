@@ -1,0 +1,22 @@
+/* font fira sans */
+
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-style: normal;
+  }
+  
+
+/* background color style */
+
+.bangla1 {
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    height: 560px;
+    width: 1240px;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 124px;
+    
+
+
+}
